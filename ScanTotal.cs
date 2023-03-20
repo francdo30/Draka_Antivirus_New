@@ -78,9 +78,9 @@ namespace ScanAutomatique
                 virus = 0;
                 files = 0;
                 backgroundWorkerScanTotal.RunWorkerAsync();
-                AutoClosingMessageBox.Show("Scan Global encours ");
+                AutoClosingMessageBox.Show("Outstanding Global Scan ");
             }
-            AutoClosingMessageBox.Show("Scan Automatique de Votre ordinateur toute les 30 minutes");
+            AutoClosingMessageBox.Show("Automatic scan of your computer every 30 minutes");
         }
 
         // nos fonction utiles

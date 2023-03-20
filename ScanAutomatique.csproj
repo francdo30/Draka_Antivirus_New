@@ -13,6 +13,9 @@
     <PackageReference Include="Guna.UI2.WinForms" Version="2.0.4" />
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
     <PackageReference Include="Stub.System.Data.SQLite.Core.NetFramework" Version="1.0.117" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.117" />
+    <PackageReference Include="UIAComWrapper" Version="1.1.0.14" />
+    <PackageReference Include="UIAutomationClient.FluentExtensions" Version="0.1.9" />
   </ItemGroup>
 
   <ItemGroup>
